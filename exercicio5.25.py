@@ -11,7 +11,7 @@ def main():
         if numero - p ** 2 < 0.0001 and numero > p ** 2:
             break
     # Saída:
-    print(p)
+    print(f"Raiz quadrada de {numero} é {p}")
 
 
 if __name__ == "__main__":
