@@ -9,7 +9,7 @@ def main():
         elif numero < minimo:
             minimo = numero
     print(" Max | Min ")
-    print( f"  {maximo}  |  {minimo}  ")
+    print(f"  {maximo}  |  {minimo}  ")
 
 
 if __name__ == "__main__":
